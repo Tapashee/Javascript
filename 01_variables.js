@@ -53,4 +53,3 @@ person = {
     age: 33
 };
 console.log(person);
-
